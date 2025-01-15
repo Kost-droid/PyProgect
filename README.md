@@ -3,4 +3,5 @@ writing commits
 this is master
 This is dev
 
-git push -u origin main
+git push -u origin main #пушит ветку маин на удаленныц репозиторий
+git branch -d <name> #удаляет выбраную ветку
